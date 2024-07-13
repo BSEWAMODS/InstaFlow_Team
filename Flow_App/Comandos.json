@@ -1,0 +1,59 @@
+[
+	{
+		"id": 1,
+		"command_name": "Comando 1",
+		"isNew": true,
+		"description_en": "hola",
+		"description_es": "Hola",
+		"description_pt": "Hola",
+		"base": "223",
+		"srcImgs": [
+			"...",
+			"...",
+			"..."
+		],
+		"commads": [
+			"...",
+			"...",
+			"..."
+		]
+	},
+	{
+		"id": 2,
+		"command_name": "Comando 2",
+		"isNew": false,
+		"description_en": "hola",
+		"description_es": "Hola",
+		"description_pt": "Hola",
+		"base": "223",
+		"srcImgs": [
+			"...",
+			"...",
+			"..."
+		],
+		"commads": [
+			"...",
+			"...",
+			"..."
+		]
+	},
+	{
+		"id": 3,
+		"command_name": "Comando 3",
+		"isNew": true,
+		"description_en": "hola",
+		"description_es": "Hola",
+		"description_pt": "Hola",
+		"base": "223",
+		"srcImgs": [
+			"...",
+			"...",
+			"..."
+		],
+		"commads": [
+			"...",
+			"...",
+			"..."
+		]
+	}
+]

@@ -1,0 +1,38 @@
+[
+	{
+		"id": 1,
+		"imgIcon": "https://raw.githubusercontent.com/BSEWAMODS/IGFlow/main/Flow_App/icons/ic_insta.png",
+		"name": "InstaFlow V17",
+		"isNew": true,
+		"info": "32 Bits - Unclone",
+		"base": "330.0.0.40.92",
+		"urlDownload": "https://devuploads.com/zlnv0cxc35kn"
+	},
+	{
+		"id": 2,
+		"imgIcon": "https://raw.githubusercontent.com/BSEWAMODS/IGFlow/main/Flow_App/icons/ic_insta.png",
+		"name": "InstaFlow V17",
+		"isNew": true,
+		"info": "32 Bits - Clone",
+		"base": "330.0.0.40.92",
+		"urlDownload": "https://devuploads.com/tmm8hfwhqiiv"
+	},
+	{
+		"id": 3,
+		"imgIcon": "https://raw.githubusercontent.com/BSEWAMODS/IGFlow/main/Flow_App/icons/ic_insta.png",
+		"name": "InstaFlow V17",
+		"isNew": true,
+		"info": "64 Bits - Unclone",
+		"base": "330.0.0.40.92",
+		"urlDownload": "https://devuploads.com/cad1m7d3l8oq"
+	},
+	{
+		"id": 4,
+		"imgIcon": "https://raw.githubusercontent.com/BSEWAMODS/IGFlow/main/Flow_App/icons/ic_insta.png",
+		"name": "InstaFlow V17",
+		"isNew": true,
+		"info": "64 Bits - Clone",
+		"base": "330.0.0.40.92",
+		"urlDownload": "https://devuploads.com/6et26eil8pzx"
+	}
+]
