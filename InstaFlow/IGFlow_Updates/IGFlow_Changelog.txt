@@ -1,11 +1,13 @@
-{"version_code":00000000,"content":"
-<p>༺☆༻ UPDATE | InstaFlow VXX.XX ༺☆༻</p>
+{"version_code":373610455,"content":"
+<p>༺☆༻ UPDATE | InstaFlow V18 ༺☆༻</p>
 
 
-<li>Primer cambio</li>
+<li>[Updated base] Version based on 336.0.0.35.90</li>
+<li>[Improved] Option - photos in maximum quality</li>
+<li>[Note] Added fonts with emojis in stories</li>
 
 
 
 
-","url":"enlace"
+","url":"https://youtu.be/cg2eZLL6xVU"
 }
