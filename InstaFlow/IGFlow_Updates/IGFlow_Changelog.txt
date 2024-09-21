@@ -1,10 +1,17 @@
 {"version_code":373610454,"content":"
-<p>༺☆༻ UPDATE | InstaFlow V18 ༺☆༻</p>
+<p>༺☆༻ UPDATE | InstaFlow V19 ༺☆༻</p>
 
 
-<li>[Updated base] Version based on 336.0.0.35.90</li>
-<li>[Improved] Option - photos in maximum quality</li>
-<li>[Note] Added fonts with emojis in stories</li>
+<li>[Updated base] Version based on 342.0.0.33.103</li>
+<li>[Added] Option to clear commands</li>
+<li>[Added] Option to remove empty space</li>
+<li>[Re-Added] Option to copy comments (Bluepapilte)</li>
+<li>[Re-Added] Option to translate comments</li>
+<li>[Improved] Fonts with emojis are now applied to all (The font will be replaced)</li>
+<li>[Removed] Media download icon (Now moved to 3 dots)</li>
+<li>[Removed] Icon to copy description (Now moved to the 3 dots)</li>
+<li>[Removed] Option for Facebook style stories</li>
+<li>[Changed] The path for downloads has been moved to downloads</li>
 
 
 
