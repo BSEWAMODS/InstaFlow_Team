@@ -1,12 +1,13 @@
-{"version_code":374913142,"content":"
-<p>༺☆༻ UPDATE | InstaFlow V20 ༺☆༻</p>
+{"version_code":375311782,"content":"
+<p>༺☆༻ UPDATE | InstaFlow V21 ༺☆༻</p>
 
 
-<li>[Updated base] Version based on 349.3.0.42.104</li>
-<li>[Re-Added] Option to hide stories in home</li>
+<li>[Updated base] Version based on 353.2.0.49.90</li>
+<li>[Changed] Minimum requirements to run the application (Android 9 | Arm64 v8a)</li>
+<li>[Moved] Copy description option is now located at (Three dots > More options)</li>
 
 
 
 
-","url":"https://www.youtube.com/watch?v=Qkypph8ir0U"
+","url":"https://t.me/instaflowupdates/256"
 }
