@@ -1,13 +1,14 @@
-{"version_code":375311782,"content":"
-<p>༺☆༻ UPDATE | InstaFlow V21 ༺☆༻</p>
+{"version_code":375912346,"content":"
+<p>༺☆༻ UPDATE | InstaFlow V22 ༺☆༻</p>
 
 
-<li>[Updated base] Version based on 353.2.0.49.90</li>
-<li>[Changed] Minimum requirements to run the application (Android 9 | Arm64 v8a)</li>
-<li>[Moved] Copy description option is now located at (Three dots > More options)</li>
+<li>New updated base - 359.0.0.59.89</li>
+<li>[Added] - Option (Disable stories autoskip)</li>
+<li>[Improved] Zoom in on profile photos</li>
+<li>[Fixed] Facebook login</li>
 
 
 
 
-","url":"https://youtu.be/zawk-eaCiCc"
+","url":"https://youtu.be/s2HT8Mqpmiw"
 }
