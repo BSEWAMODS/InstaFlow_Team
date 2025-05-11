@@ -1,11 +1,11 @@
 {"version_code":375912346,"content":"
-<p>༺☆༻ UPDATE | InstaFlow V22 ༺☆༻</p>
+<p>༺☆༻ UPDATE | InstaFlow V23 ༺☆༻</p>
 
 
-<li>New updated base - 359.0.0.59.89</li>
-<li>[Added] - Option (Disable stories autoskip)</li>
-<li>[Improved] Zoom in on profile photos</li>
-<li>[Fixed] Facebook login</li>
+<li>New updated base - 367.0.0.43.89</li>
+<li>[Improved] ad-blocking option (100% ads removed)</li>
+<li>[Temporarily removed] "Following you" indicator option</li>
+<li>[Added] - Ability to save view-once images</li>
 
 
 
