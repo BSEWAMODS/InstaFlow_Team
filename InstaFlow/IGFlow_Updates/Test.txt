@@ -1,0 +1,14 @@
+{"version_code":377111149,"content":"
+<p>༺☆༻ UPDATE | InstaFlow V23 ༺☆༻</p>
+
+
+<li>New updated base - 367.0.0.43.89</li>
+<li>[Improved] ad-blocking option (100% ads removed)</li>
+<li>[Temporarily removed] "Following you" indicator option</li>
+<li>[Added] - Ability to save view-once images</li>
+
+
+
+
+","url_instaflow":"https://youtu.be/Eyjph-bsTrc","url_instagram":"https://youtu.be/Eyjph-bsTrc"
+}
