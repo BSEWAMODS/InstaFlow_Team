@@ -1,5 +1,5 @@
 {"version_code":377111149,"content":"
-<p>༺☆༻ UPDATE | InstaFlow V23 ༺☆༻</p>
+<p>༺☆༻ UPDATE | InstaFlow V24 ༺☆༻</p>
 
 
 <li>New updated base - 367.0.0.43.89</li>
